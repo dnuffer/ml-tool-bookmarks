@@ -5,6 +5,7 @@ Lists of links to machine learning tools
 
 * **[Deep Learning](#deep-learning)**
 * **[Ensembling](#ensembling)**
+* **[Feature Selection](#feature-selection)**
 * **[General ML Libraries](#general-ml-libraries)**
 * **[Visualization](#visualization)**
 * **[Data Processing](#data-processing)**
@@ -16,6 +17,10 @@ Lists of links to machine learning tools
 ### Ensembling
 
 * [ML-ENS](https://github.com/flennerhag/mlens) combines a Scikit-learn high-level API with a low-level computational graph framework to build memory efficient, maximally parallelized ensemble networks in as few lines of codes as possible
+
+### Feature Selection
+
+* [Feature Selection Tool](https://github.com/WillKoehrsen/feature-selector) is a tool for dimensionality reduction of machine learning datasets
 
 ### General ML Libraries
 
